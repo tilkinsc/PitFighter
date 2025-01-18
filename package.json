@@ -3,6 +3,11 @@
   "displayName": "PitFighter",
   "description": "Empty lines, no tabs, we goin' to war!",
   "version": "1.0.1",
+  "publisher": "tilkinsc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tilkinsc/PitFighter"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
